@@ -1,0 +1,4 @@
+Process,ArrivalTime,BurstTime
+Pa,0,36
+Pb,16,20
+Pc,20,12
